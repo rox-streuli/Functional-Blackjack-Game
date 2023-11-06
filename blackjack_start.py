@@ -98,7 +98,7 @@ def print_score(who, score):
 
 def who_wins(hand, computer, player):
     updated_score = computer
-    while 22 > player > updated_score:
+    while 22 > player > updated_score and updated_score < 17:
         current_hand = get_computer_card(hand)
         updated_score = current_score(current_hand)
         if updated_score > 21:
