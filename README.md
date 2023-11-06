@@ -1,7 +1,7 @@
 # Functional-Blackjack-Game
 Simple Blackjack game using only functions.
-## Adapted game from 100 Days of Code - The Complete Python Pro Bootcamp
-Creator Dr. Angela Yu
+## Adapted game from 100 Days of Code - The Complete Python Pro Bootcamp (Dr. Angela Yu)
+
 ### Our Blackjack House Rules
 
 The deck is unlimited in size.
@@ -23,6 +23,6 @@ http://blackjack-final.appbrewery.repl.run
 #### USING ONLY HINT 1 !!
 Difficulty Expert 🤯: Only use Hint 1 to complete the project.
 
-This is my variation from the original project. used ASCII
-art and created my own set of cards to call.
+This is my variation from the original project. I used ASCII
+art and created my cards to call from The Bej's cards (TM) v.1.0. (See copyright)
 ![image](https://github.com/rox-streuli/Functional-Blackjack-Game/assets/92250156/d517da79-27f8-485f-914f-ad97cdf3bc17)
