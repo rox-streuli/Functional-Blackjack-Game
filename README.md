@@ -25,3 +25,5 @@ Difficulty Expert 🤯: Only use Hint 1 to complete the project.
 
 This is my variation from the original project. used ASCII
 art and created my own set of cards to call.
+
+![image](https://github.com/rox-streuli/Functional-Blackjack-Game/assets/92250156/676a59ea-1e10-441b-878d-ff910253a2d5)
