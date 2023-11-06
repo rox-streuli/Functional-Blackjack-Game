@@ -24,5 +24,5 @@ http://blackjack-final.appbrewery.repl.run
 Difficulty Expert 🤯: Only use Hint 1 to complete the project.
 
 This is my variation from the original project. I used ASCII
-art and created my cards to call from The Bej's cards (TM) v.1.0. (See copyright)
+art and created my cards to call from The Bej's cards (TM) v.1.0. (See license)
 ![image](https://github.com/rox-streuli/Functional-Blackjack-Game/assets/92250156/d517da79-27f8-485f-914f-ad97cdf3bc17)
